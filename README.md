@@ -1,3 +1,5 @@
+Copy of the bitcoin code from https://github.com/bitcoin/bitcoin.git
+
 Bitcoin Core integration/staging tree
 =====================================
 
